@@ -39,11 +39,3 @@ for contador in range(1,11): # 1 - pra começar no numero 1 e 11 pra ter a qtde 
 clear()
 print(f'No total tivemos:\n{excelente} opiniões como EXCELENTE;\n{ruim} opiniões como RUINS.\n\nbônus: {bom} opiniões como BOM.')
 print('\nPrograma desenvolvido por: Miguel Silva Gonçalves.')
-
-
-
-    #Ao final, o programa deverá exibir na tela:
-    #a) Quantidade de respostas “EXCELENTE”
-    #b) Quantidade de respostas “RUIM”
-    #Utilize estruturas de decisão para verificar a opinião do entrevistado.
-    #Realize testes com 10 entrevistados para validar o funcionamento do programa.
