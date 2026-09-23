@@ -10,11 +10,13 @@ Este projeto é uma aplicação desenvolvida para a coleta e análise de pesquis
 * Processamento e exibição dos resultados
 * Interface intuitiva para interagir com a pesquisa
 
-## 📷 Demonstração
+## 📷 Demonstração e print do código
 
 Abaixo está o registro visual do funcionamento da aplicação:
 
 ![Demonstração do Funcionamento](./print.jpeg)
+![](./print2.png)
+![](./print1.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
